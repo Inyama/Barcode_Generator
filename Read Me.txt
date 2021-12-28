@@ -1,0 +1,6 @@
+To Run this Barcode Generator
+
+1.) Select the folder "lindell.me"
+2.) Click on "JsBarcode"
+3.) Finally click on "Barcode_generator"
+4.) Select the index.html file and run the program.
